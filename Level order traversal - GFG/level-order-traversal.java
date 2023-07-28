@@ -130,14 +130,16 @@ class Solution
     static ArrayList <Integer> levelOrder(Node node) 
     {
         // Your code here
-        Queue<Node> queue= new LinkedList<>();
+        Queue<Node> q= new LinkedList<>();
         ArrayList<Integer> a = new ArrayList<>();
-        queue.offer(node);
-        while(!queue.isEmpty()) {
-            Node n = queue.poll();
-            a.add(n.data);
-            if(n.left!=null) queue.offer(n.left);
-            if(n.right!=null) queue.offer(n.right);
+        q.offer(node);
+        while(!q.isEmpty()) {
+            int n = q.size();
+            for(int i=0;i<n;i++){
+                if(q.peek().left!=null) q.offer(q.peek().left);
+                if(q.peek().right!=null) q.offer(q.peek().right);
+                a.add(q.poll().data);
+            }
         }
         return a;
     }
