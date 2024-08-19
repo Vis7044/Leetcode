@@ -5,7 +5,7 @@ public:
         int i=0,j=0,maxi=INT_MIN;
         while(j<nums.size()) {
             if(nums[j]==0) zeros++;
-            while(zeros>k) {
+            if(zeros>k) {
                 if(nums[i]==0) zeros--;
                 i++;
             }
