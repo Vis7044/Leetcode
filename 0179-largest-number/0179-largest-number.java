@@ -1,20 +1,16 @@
 class Solution {
-public:
-    string largestNumber(vector<int>& nums) {
-        vector<string>st;
-        for(auto it: nums) {
-            st.push_back(to_string(it));
+    public String largestNumber(int[] nums) {
+        ArrayList<String> arr = new ArrayList<>();
+        for(int it: nums) {
+            arr.add(String.valueOf(it));
         }
         
-        sort(st.begin(),st.end(),[](string &a, string &b) {
-            return a+b>b+a;
-        });
-        
-        if(st[0]=="0") return "0";
-        string ans;
-        for(auto it: st) {
-            ans+=it;
+        Collections.sort(arr,(a,b)-> (b+a).compareTo(a+b));
+        if(arr.get(0).equals("0")) return "0";
+        StringBuilder s = new StringBuilder();
+        for(String it: arr) {
+            s.append(it);
         }
-        return ans;
+        return s.toString();
     }
-};
+}
