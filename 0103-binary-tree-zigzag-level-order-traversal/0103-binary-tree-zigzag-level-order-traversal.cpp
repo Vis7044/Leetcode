@@ -17,25 +17,22 @@ public:
         if(root==NULL) return ans;
         queue<TreeNode*>q;
         q.push(root);
-        bool left_to_right=false;
+        bool lr= false;
         while(!q.empty()) {
             int n = q.size();
-            vector<int>temp;
+            vector<int> temp;
             for(int i=0;i<n;i++) {
-                TreeNode * node = q.front();
-                if(node->left) {
-                    q.push(node->left);
-                }
-                if(node->right) {
-                    q.push(node->right);
-                }
-                temp.push_back(node->val);
+                TreeNode *n = q.front();
+                if(n->left) q.push(n->left);
+                if(n->right) q.push(n->right);
+                temp.push_back(n->val);
                 q.pop();
             }
-            if(left_to_right) reverse(temp.begin(),temp.end());
+            if(lr) {
+                reverse(temp.begin(),temp.end());
+            }
             ans.push_back(temp);
-            
-            left_to_right = !left_to_right;
+            lr = !lr;
         }
         return ans;
     }
