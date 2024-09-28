@@ -28,7 +28,10 @@ public:
         for(auto p: mp) {
             vector<int> temp;
             for(auto q: p.second) {
-                temp.insert(temp.end(),q.second.begin(),q.second.end());
+                // temp.insert(temp.end(),q.second.begin(),q.second.end());
+                for(auto it: q.second) {
+                    temp.push_back(it);
+                }
             }
             ans.push_back(temp);
         }
