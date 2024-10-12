@@ -1,14 +1,19 @@
 class Solution {
     public String reverseWords(String s) {
-        String []arr = s.trim().replaceAll("\s+"," ").split("\s");
-        int i=0,j=arr.length-1;
-        while(i<j) {
-            String temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-            i++;
-            j--;
+        StringBuilder sb = new StringBuilder();
+        int i = s.length()-1;
+        while(i>=0) {
+            StringBuilder ssb = new StringBuilder();
+            while(i>=0 && s.charAt(i)==' ') i--;
+            while(i>=0 && s.charAt(i)!=' ') {
+                ssb.append(s.charAt(i));
+                i--;
+            }
+            if(ssb.length()>0) {
+                if(sb.length()==0) sb.append(ssb.reverse().toString());
+                else sb.append(" "+ ssb.reverse().toString());
+            }
         }
-        return String.join(" ",arr);
+        return sb.toString();
     }
 }
