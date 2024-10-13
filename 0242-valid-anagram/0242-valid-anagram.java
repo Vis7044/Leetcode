@@ -9,11 +9,10 @@ class Solution {
         }
         for(char c: t.toCharArray()) {
             arr[c-'a']--;
+            if(arr[c-'a']<0) return false;
+            
         }
         
-        for(int a: arr) {
-            if(a!=0) return false;
-        }
         return true;
     }
 }
