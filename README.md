@@ -24,10 +24,12 @@
 ## String
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/Vis7044/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/Vis7044/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
