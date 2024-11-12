@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vis7044/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+## Sorting
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
