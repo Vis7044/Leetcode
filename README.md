@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vis7044/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Vis7044/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vis7044/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vis7044/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Vis7044/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
