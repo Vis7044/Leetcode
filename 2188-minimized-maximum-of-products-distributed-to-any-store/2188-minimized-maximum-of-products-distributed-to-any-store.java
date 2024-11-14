@@ -21,12 +21,10 @@ class Solution {
 
     
     private boolean isPossible(int n, int mid, int[] quantities) {
-        int storesNeeded = 0;
+        int stores=0;
         for (int q : quantities) {
-            storesNeeded += Math.ceil((double)q/mid);  
-            if (storesNeeded > n) {
-                return false;  
-            }
+            stores+=Math.ceil((double)q/mid);
+            if(stores>n) return false;
         }
         return true;
     }
