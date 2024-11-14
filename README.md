@@ -27,11 +27,13 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
 | [1170-shortest-common-supersequence](https://github.com/Vis7044/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
 | [1170-shortest-common-supersequence](https://github.com/Vis7044/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Combinatorics
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Vis7044/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
