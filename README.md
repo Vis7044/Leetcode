@@ -13,6 +13,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vis7044/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Vis7044/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vis7044/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vis7044/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vis7044/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vis7044/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
