@@ -52,6 +52,7 @@
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vis7044/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vis7044/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vis7044/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | ------- |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vis7044/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vis7044/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Vis7044/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vis7044/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
