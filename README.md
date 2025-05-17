@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Vis7044/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vis7044/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -120,6 +121,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vis7044/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vis7044/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -134,5 +136,10 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vis7044/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
