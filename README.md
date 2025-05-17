@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vis7044/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vis7044/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vis7044/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vis7044/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vis7044/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vis7044/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
