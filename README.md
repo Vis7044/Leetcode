@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vis7044/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vis7044/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vis7044/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vis7044/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -89,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -96,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vis7044/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vis7044/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
