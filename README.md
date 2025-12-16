@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vis7044/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vis7044/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vis7044/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -123,6 +124,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vis7044/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vis7044/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
