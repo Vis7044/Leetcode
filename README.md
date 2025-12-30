@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Vis7044/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vis7044/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vis7044/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0229-majority-element-ii](https://github.com/Vis7044/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vis7044/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vis7044/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vis7044/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vis7044/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -135,6 +137,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vis7044/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vis7044/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vis7044/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vis7044/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vis7044/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vis7044/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vis7044/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vis7044/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vis7044/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
