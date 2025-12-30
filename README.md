@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vis7044/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Vis7044/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vis7044/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
@@ -94,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vis7044/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vis7044/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vis7044/Leetcode/tree/master/0229-majority-element-ii) |
@@ -104,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vis7044/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vis7044/Leetcode/tree/master/0075-sort-colors) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vis7044/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
