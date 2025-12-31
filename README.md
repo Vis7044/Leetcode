@@ -24,6 +24,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vis7044/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vis7044/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vis7044/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vis7044/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -81,6 +82,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vis7044/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vis7044/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vis7044/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Vis7044/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -96,6 +98,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vis7044/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vis7044/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Vis7044/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vis7044/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vis7044/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vis7044/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -130,6 +133,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vis7044/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vis7044/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Recursion
 |  |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vis7044/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
