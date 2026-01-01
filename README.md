@@ -195,8 +195,21 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vis7044/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
