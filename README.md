@@ -30,6 +30,7 @@
 | [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vis7044/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Vis7044/Leetcode/tree/master/0994-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vis7044/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Vis7044/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -197,6 +198,7 @@
 | [0200-number-of-islands](https://github.com/Vis7044/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Vis7044/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Vis7044/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
