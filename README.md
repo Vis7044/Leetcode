@@ -27,6 +27,7 @@
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Vis7044/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/Vis7044/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vis7044/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
 | [1129-longest-string-chain](https://github.com/Vis7044/Leetcode/tree/master/1129-longest-string-chain) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vis7044/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vis7044/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
@@ -201,6 +203,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Vis7044/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vis7044/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,12 +213,14 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Vis7044/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vis7044/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vis7044/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Vis7044/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vis7044/Leetcode/tree/master/0733-flood-fill) |
 ## Graph
 |  |
