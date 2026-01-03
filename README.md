@@ -61,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vis7044/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Vis7044/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2187-vowels-of-all-substrings](https://github.com/Vis7044/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## String
@@ -80,6 +81,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vis7044/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vis7044/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vis7044/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vis7044/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vis7044/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vis7044/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -246,4 +248,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vis7044/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vis7044/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vis7044/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vis7044/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
