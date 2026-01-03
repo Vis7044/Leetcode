@@ -15,16 +15,21 @@
  */
 class Solution {
     public int maxPathSum(TreeNode root) {
-        int a[] = new int[1];
-        a[0] = Integer.MIN_VALUE;
-        helper(root,a);
-        return a[0];
+        int[] ans = new int[]{Integer.MIN_VALUE};
+        dfs(root, ans);
+        return ans[0];
     }
-    public int helper(TreeNode root, int[] a){
-        if(root==null) return 0;
-        int l=Math.max(0,helper(root.left, a));
-        int r=Math.max(0,helper(root.right,a));
-        a[0]=Math.max(a[0],root.val+l+r);
-        return root.val+Math.max(l,r);
+
+    private int dfs(TreeNode root, int[] ans) {
+        if (root == null) return 0;
+
+        int left = Math.max(0, dfs(root.left, ans));
+        int right = Math.max(0, dfs(root.right, ans));
+
+        // Path passing through root
+        ans[0] = Math.max(ans[0], root.val + left + right);
+
+        // Path going upward
+        return root.val + Math.max(left, right);
     }
 }
